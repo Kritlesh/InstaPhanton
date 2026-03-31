@@ -7,8 +7,6 @@ instaphanton is an Shell Script to perform multi-threaded brute force attack aga
 ## Legal disclaimer:
 Usage of instaphanton for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![insane](https://user-images.githubusercontent.com/34893261/38772658-97646698-4012-11e8-9b5e-65596e70a5ff.png)
-
 ### Features
 - Multi-thread (100 attempts at once)
 - Save/Resume sessions
