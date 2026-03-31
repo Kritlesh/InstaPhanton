@@ -1,6 +1,6 @@
 # instaphanton v1.0
 ## Author: github.com/Kritlesh
-## IG: instagram.com/linux_choice
+## IG: instagram.com/kritt_on_top
 ### Don't copy this code without giving me the credits, nerd! 
 instaphanton is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
 
