@@ -1,7 +1,7 @@
 #!/bin/bash
 # Coded by: Kritlesh (Don't change, noob!)
 # www.github.com/Kritlesh
-# www.instagram.com/krit_on_top
+# www.instagram.com/her_krit__
 
 trap 'store; exit 1;' 2
 
